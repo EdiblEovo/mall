@@ -1,0 +1,5 @@
+com\edible\mallweb\MallWebApplication.class
+com\edible\mallweb\LoginController.class
+com\edible\mallweb\ProductController.class
+com\edible\mallweb\ShopController.class
+com\edible\mallweb\MemberController.class

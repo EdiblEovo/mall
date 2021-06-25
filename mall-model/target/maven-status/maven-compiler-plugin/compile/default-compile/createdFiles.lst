@@ -1,0 +1,11 @@
+com\edible\mallmodel\Member.class
+com\edible\mallmodel\Shop.class
+com\edible\mallmodel\Admin.class
+com\edible\mallmodel\Product.class
+com\edible\mallmodel\ReturnItem.class
+com\edible\mallmodel\AdvertiseOrder.class
+com\edible\mallmodel\MallStatistic.class
+com\edible\mallmodel\Order.class
+com\edible\mallmodel\ShopStatistic.class
+com\edible\mallmodel\MemberStatistic.class
+com\edible\mallmodel\OrderItem.class

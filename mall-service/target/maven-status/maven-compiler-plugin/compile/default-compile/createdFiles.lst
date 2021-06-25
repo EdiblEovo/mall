@@ -1,0 +1,16 @@
+com\edible\mallservice\impl\OrderServiceImpl.class
+com\edible\mallservice\AdvertiseOrderService.class
+com\edible\mallservice\impl\AdminServiceImpl.class
+com\edible\mallservice\impl\AdvertiseOrderServiceImpl.class
+com\edible\mallservice\impl\ProductServiceImpl.class
+com\edible\mallservice\impl\ShopServiceImpl.class
+com\edible\mallservice\ShopService.class
+com\edible\mallservice\impl\ReturnItemServiceImpl.class
+com\edible\mallservice\OrderItemService.class
+com\edible\mallservice\OrderService.class
+com\edible\mallservice\MemberService.class
+com\edible\mallservice\ProductService.class
+com\edible\mallservice\ReturnItemService.class
+com\edible\mallservice\AdminService.class
+com\edible\mallservice\impl\OrderItemServiceImpl.class
+com\edible\mallservice\impl\MemberServiceImpl.class
